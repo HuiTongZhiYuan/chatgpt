@@ -21,8 +21,8 @@ ChatGPT的横空出世真的改变了世界，用过的人都知道ChatGPT完全
 
 ------
 # 测试网址：http://mm1.ltd
-![t1](https://)
-![t2](https://)
+![t1](https://https://github.com/HuiTongZhiYuan/chatgpt/blob/main/imgs/1.jpg)
+![t2](https://https://github.com/HuiTongZhiYuan/chatgpt/blob/main/imgs/2.jpg)
 
 
 ------
@@ -89,12 +89,12 @@ https://platform.openai.com/docs/api-reference/models/list
 
 旧群人已满，请加新群，预计一周左右人就能满。
 
-![群二维码](https://)
+![群二维码](https://github.com/HuiTongZhiYuan/chatgpt/blob/main/imgs/chat.jpg)
 
 
 有热心网友建议我放个打赏码，各位如果真的想表达感谢，小额即可。
 
-![打赏码](https://)
+![打赏码](https://github.com/HuiTongZhiYuan/chatgpt/blob/main/imgs/wx_pay.jpg)
 
 最后，我还做了个在微信个人订阅号中通过调用OpenAI最新接口和gpt-3.5-turbo模型实现ChatGPT聊天机器人的功能，已开源，需要的朋友也可以拿去。
 https://
