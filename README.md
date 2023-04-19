@@ -21,8 +21,8 @@ ChatGPT的横空出世真的改变了世界，用过的人都知道ChatGPT完全
 
 ------
 # 测试网址：http://mm1.ltd
-![t1](https://https://github.com/HuiTongZhiYuan/chatgpt/blob/main/imgs/1.jpg)
-![t2](https://https://github.com/HuiTongZhiYuan/chatgpt/blob/main/imgs/2.jpg)
+![t1](https://github.com/HuiTongZhiYuan/chatgpt/blob/main/imgs/1.jpg)
+![t2](https://github.com/HuiTongZhiYuan/chatgpt/blob/main/imgs/2.jpg)
 
 
 ------
